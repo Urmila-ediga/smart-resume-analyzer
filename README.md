@@ -56,3 +56,11 @@ Smart-Resume-Analyzer/
 ├── README.md
 ├── .env
 └── sample_resumes/
+
+
+
+
+**#Developed By**
+Urmila Ediga
+Final Year Project
+AI-Powered Career Guidance System Through Resume Parsing
